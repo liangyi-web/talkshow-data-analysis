@@ -7,7 +7,7 @@ This project conducts data analysis on a talk show subtitle and danmu dataset us
 - `Python code with detailed notation.ipynb`  
   The original Python notebook containing all analysis code.
 
-- `dataset_sample_first10rows.csv`  
+- `data samples the first 10 rows of datasets used for analysis.csv`  
   A public data sample consisting of the first 10 rows of the dataset used in the analysis.
 
 ## Data Availability
